@@ -6,10 +6,12 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
+    overflow: hidden;
 }
 
 .container {
     max-width: 375px;
+    max-height: 500px;
     margin: 0 auto;
 }
 
